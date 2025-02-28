@@ -380,13 +380,12 @@ public class HomeView extends VerticalLayout {
         grid.getStyle().setTextDecoration("rtl");
         grid.getStyle().setJustifyContent(Style.JustifyContent.END);
 
+        // Need to fix this section
         AccountantUser user = getLoggedInAccountant();
 
-
-            List<Clients> clientsList = clientsService.getClientsByAccountantId(user.getId());
-            grid.setItems(clientsList);
-
-
+        List<Clients> clientsList = clientsService.getClientsByAccountantId(user.getId());
+        grid.setItems(clientsList);
+        //////////////////////////
 
         layout.add(grid);
         return layout;
