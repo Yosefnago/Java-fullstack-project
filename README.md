@@ -33,15 +33,11 @@ Contributions
 Contributions from the community are welcome. For more details on how to contribute to the project, please see the CONTRIBUTING.md file.
 
 Developers
-This project was developed by [Your Name Here] with support from the open developer community.
+This project was developed by Yosef Nago.
 
 Contact
-For any questions or requests, please contact us via [Email/Twitter/GitHub Issues].
+For any questions or requests, please contact us via [Email/Twitter/GitHub Issues]
 
-css
-Copy
-
-This `README.md` provides a clear and concise overview of the project, how to get started, and how to contribute, tailored to potential users and contributors.
 
 
 
