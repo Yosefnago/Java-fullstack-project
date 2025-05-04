@@ -36,20 +36,9 @@ Copy
 mvn spring-boot:run
 Access the user interface at http://localhost:8080.
 
-Documentation
-Detailed documentation of the system can be found in the /docs directory. There, you'll find explanations of the architecture, APIs, and various capabilities of the system.
-
-License
-This project is distributed under the MIT License, which allows free use of the source code for any purpose, including commercial uses.
-
-Contributions
-Contributions from the community are welcome. For more details on how to contribute to the project, please see the CONTRIBUTING.md file.
-
 Developers
 This project was developed by Yosef Nago.
 
-Contact
-For any questions or requests, please contact us via [Email/Twitter/GitHub Issues]
 
 
 
