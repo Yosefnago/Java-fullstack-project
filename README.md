@@ -1,4 +1,17 @@
 # Account Management System
+## 📢 Important Notice
+
+⚠️ This project is the **monolithic version** of the Accounting Management System.
+
+🔁 A new and improved version based on **microservices architecture** is now available here:  
+👉 [ams-microservices](https://github.com/Yosefnago/ams-microservices)
+
+The microservices version includes:
+- Modular services (User, Client, Gateway, UI)
+- Vaadin UI
+- JWT-based security
+- Service Discovery (Eureka)
+- Spring Cloud Gateway
 
 ## General Description
 This Account Management System is designed for independent accountants and offers centralized management of client accounts. Features include the creation, editing, and deletion of client files, invoicing, cash flow management, and more.
